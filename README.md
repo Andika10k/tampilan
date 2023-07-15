@@ -14,3 +14,7 @@ git clone https://github.com/Andika10k/tampilan
 cd tampilan
 nano .bashrc
 sh tampilan.sh
+
+# PASS
+
+tampilan
